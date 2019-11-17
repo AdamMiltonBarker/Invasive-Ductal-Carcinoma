@@ -30,7 +30,7 @@ If you are going to be contributing code or documentation to the repository you 
 
 # Push changes to forked repository
 
-![Push changes to forked repository](https://www.BreastCancerAI.com/media/images/repositories/Contributing-Commit-Push.jpg)
+![Push changes to forked repository](https://www.BreastCancerAI.com/media/images/repositories/Contributing-Push.jpg)
 When you have made your changes, you need to push them to your forked repository. This process requires a commit with a message about what your commit is, and then finally a push to the repository which will place your changes or created files to your forked repository.
 
 &nbsp;
